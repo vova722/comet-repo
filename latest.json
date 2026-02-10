@@ -1,7 +1,7 @@
 {
   "version": "0.04.3",
   "url": "https://raw.githubusercontent.com/vova722/comet-repo/main/Comet_0_03.exe",
-  "sha256": "82da322919be6abef42d5ed1889111761bb37653098c015e80e0be39b3cec2c8",
+  "sha256": "e204b5211a632a975492736ba599013f01cafcfdace08324dd3abde18a9e919d",
   "size": 23519232,
   "channel": "stable",
   "notes": "hardened build (nuitka)",
@@ -11,3 +11,4 @@
     "http://188.120.249.79:8787"
   ]
 }
+
